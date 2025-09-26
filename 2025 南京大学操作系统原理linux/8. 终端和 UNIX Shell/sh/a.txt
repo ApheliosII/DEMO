@@ -1,0 +1,7 @@
+Makefile
+README.md
+a.txt
+init.gdb
+lib.h
+sh.c
+visualize.py

@@ -1,0 +1,3 @@
+"D:\Program Files (x86)\cmake\bin\cmake.exe" -E rm -f CMakeFiles\StaffManagementApplication.dir/objects.a
+"D:\Program Files (x86)\mingw64\bin\ar.exe" qc CMakeFiles\StaffManagementApplication.dir/objects.a @CMakeFiles\StaffManagementApplication.dir\objects1.rsp
+"D:\Program Files (x86)\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\StaffManagementApplication.dir/objects.a -Wl,--no-whole-archive -o StaffManagementApplication.exe -Wl,--out-implib,libStaffManagementApplication.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StaffManagementApplication.dir\linkLibs.rsp

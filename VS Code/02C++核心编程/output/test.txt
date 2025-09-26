@@ -1,0 +1,3 @@
+name: TOM
+sex: male
+age: 20

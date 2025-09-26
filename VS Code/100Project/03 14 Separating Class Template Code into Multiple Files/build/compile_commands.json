@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/2025/learn/VS Code/Project/03 14 Separating Class Template Code into Multiple Files/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\class_template.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\03 14 Separating Class Template Code into Multiple Files\\src\\class template.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/03 14 Separating Class Template Code into Multiple Files/src/class template.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/class_template.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/03 14 Separating Class Template Code into Multiple Files/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\person.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\03 14 Separating Class Template Code into Multiple Files\\src\\person.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/03 14 Separating Class Template Code into Multiple Files/src/person.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/person.cpp.obj"
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/2025/learn/VS Code/Project/02 22 point is in circle/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/isInCircle.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\isInCircle.dir\\src\\02_22_point_is_in_circle.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\02 22 point is in circle\\src\\02 22 point is in circle.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/02 22 point is in circle/src/02 22 point is in circle.cpp",
+  "output": "CMakeFiles/isInCircle.dir/src/02_22_point_is_in_circle.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/02 22 point is in circle/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/isInCircle.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\isInCircle.dir\\src\\circle.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\02 22 point is in circle\\src\\circle.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/02 22 point is in circle/src/circle.cpp",
+  "output": "CMakeFiles/isInCircle.dir/src/circle.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/02 22 point is in circle/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/isInCircle.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\isInCircle.dir\\src\\point.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\02 22 point is in circle\\src\\point.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/02 22 point is in circle/src/point.cpp",
+  "output": "CMakeFiles/isInCircle.dir/src/point.cpp.obj"
+}
+]

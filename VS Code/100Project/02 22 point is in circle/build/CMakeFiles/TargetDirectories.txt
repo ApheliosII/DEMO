@@ -1,0 +1,4 @@
+E:/2025/learn/VS Code/Project/02 22 point is in circle/build/CMakeFiles/isInCircle.dir
+E:/2025/learn/VS Code/Project/02 22 point is in circle/build/CMakeFiles/clean_all.dir
+E:/2025/learn/VS Code/Project/02 22 point is in circle/build/CMakeFiles/edit_cache.dir
+E:/2025/learn/VS Code/Project/02 22 point is in circle/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+cmake_minimum_required(VERSION 4.0.1)  # 最低 CMake 版本
+project(Myproject)                    # 项目名称
+
+# 设置 C++ 标准
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# 包含头文件目录
+include_directories(include)
+
+# 自动收集所有源文件
+file(GLOB SOURCES "src/*.cpp")
+
+# 生成可执行文件
+add_executable(${PROJECT_NAME} ${SOURCES})
+
+# 可选：指定输出目录
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/build)
+
+
+# 添加清理任务（放在 CMakeLists.txt 末尾）
+add_custom_target(clean_all
+  COMMAND ${CMAKE_COMMAND} -E remove_directory ${PROJECT_BINARY_DIR}  # 删除构建目录
+  COMMAND ${CMAKE_COMMAND} -E remove ${PROJECT_NAME}                 # 删除可执行文件（如果存在）
+  COMMENT "彻底清理所有构建产物"
+)
+
+
+
+
+cmake_minimum_required(VERSION 4.0.1)  # 最低 CMake 版本
+project(test)                    # 项目名称
+
+# 包含头文件目录
+include_directories(include)
+
+aux_source_directory(./src SRCS)        # 添加源文件目录
+
+# 生成可执行文件
+add_executable(${PROJECT_NAME} ${SRCS})

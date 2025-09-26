@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\Staff_Management_Application.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\102 C++ Polymorphism-Based Staff Management Application\\src\\Staff Management Application.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/src/Staff Management Application.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/Staff_Management_Application.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\boss.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\102 C++ Polymorphism-Based Staff Management Application\\src\\boss.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/src/boss.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/boss.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\employee.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\102 C++ Polymorphism-Based Staff Management Application\\src\\employee.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/src/employee.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/employee.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\manager.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\102 C++ Polymorphism-Based Staff Management Application\\src\\manager.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/src/manager.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/manager.cpp.obj"
+},
+{
+  "directory": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\g++.exe\"  @CMakeFiles/StaffManagementApplication.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\StaffManagementApplication.dir\\src\\workerManager.cpp.obj -c \"E:\\2025\\learn\\VS Code\\Project\\102 C++ Polymorphism-Based Staff Management Application\\src\\workerManager.cpp\"",
+  "file": "E:/2025/learn/VS Code/Project/102 C++ Polymorphism-Based Staff Management Application/src/workerManager.cpp",
+  "output": "CMakeFiles/StaffManagementApplication.dir/src/workerManager.cpp.obj"
+}
+]

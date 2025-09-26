@@ -1,0 +1,132 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "MinGW Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "D:/Program Files (x86)/cmake/bin/cmake.exe",
+			"cpack" : "D:/Program Files (x86)/cmake/bin/cpack.exe",
+			"ctest" : "D:/Program Files (x86)/cmake/bin/ctest.exe",
+			"root" : "D:/Program Files (x86)/cmake/share/cmake-4.0"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 4,
+			"minor" : 0,
+			"patch" : 1,
+			"string" : "4.0.1",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-9df1e39a389837b0086a.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 8
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-2d73b16b758d825b956b.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-bbdf9fa29e7dc9a19c0c.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 1
+			}
+		},
+		{
+			"jsonFile" : "toolchains-v1-f7af54b100e817effe43.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-vscode" : 
+		{
+			"query.json" : 
+			{
+				"requests" : 
+				[
+					{
+						"kind" : "cache",
+						"version" : 2
+					},
+					{
+						"kind" : "codemodel",
+						"version" : 2
+					},
+					{
+						"kind" : "toolchains",
+						"version" : 1
+					},
+					{
+						"kind" : "cmakeFiles",
+						"version" : 1
+					}
+				],
+				"responses" : 
+				[
+					{
+						"jsonFile" : "cache-v2-2d73b16b758d825b956b.json",
+						"kind" : "cache",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 0
+						}
+					},
+					{
+						"jsonFile" : "codemodel-v2-9df1e39a389837b0086a.json",
+						"kind" : "codemodel",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 8
+						}
+					},
+					{
+						"jsonFile" : "toolchains-v1-f7af54b100e817effe43.json",
+						"kind" : "toolchains",
+						"version" : 
+						{
+							"major" : 1,
+							"minor" : 0
+						}
+					},
+					{
+						"jsonFile" : "cmakeFiles-v1-bbdf9fa29e7dc9a19c0c.json",
+						"kind" : "cmakeFiles",
+						"version" : 
+						{
+							"major" : 1,
+							"minor" : 1
+						}
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+Makefile
+README.md
+a.txt
+fd-alloc.c
+fd-offset.c
+sample.txt
